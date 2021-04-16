@@ -1,0 +1,3 @@
+/** Common info **/
+Line 1.
+End of the file.
